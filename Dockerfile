@@ -1,1 +1,1 @@
-FROM:
+CMD echo "hello-world"
